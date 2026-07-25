@@ -23,7 +23,7 @@
     "@types/react-dom": "^18.0.1",
     "@types/uuid": "^8.3.4",
     "airtable": "^0.12.2",
-    "axios": "^0.26.0",
+    "axios": "^1.18.1",
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.3",
     "buffer": "^6.0.3",
@@ -80,7 +80,7 @@
     "swagger-ui-express": "^5.0.1",
     "typedoc": "^0.23.8",
     "typescript": "^4.6.3",
-    "uuid": "^8.3.2",
+    "uuid": "^14.0.1",
     "uuidv4": "^6.2.12",
     "web-vitals": "^2.1.4",
     "winston": "^3.5.1"
@@ -129,6 +129,6 @@
     "nodemon": "^2.0.15",
     "sequelize-cli": "^6.6.2",
     "ts-node": "^10.4.0",
-    "vite": "^5.4.10"
+    "vite": "^8.1.5"
   }
 }
